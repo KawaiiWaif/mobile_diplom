@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "497995684282",
+    "firebase_url": "https://diplom-8e29b-default-rtdb.firebaseio.com",
+    "project_id": "diplom-8e29b",
+    "storage_bucket": "diplom-8e29b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497995684282:android:8f8115d9f869d1c9df6583",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtyNsxr11bm_41yUfwBlDmNOwcCILBY2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497995684282:android:4706d8ccd8b8466fdf6583",
+        "android_client_info": {
+          "package_name": "com.example.mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtyNsxr11bm_41yUfwBlDmNOwcCILBY2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
